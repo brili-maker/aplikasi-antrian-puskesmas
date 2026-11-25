@@ -1,0 +1,4 @@
+# Salin menjadi db.properties lalu isi sesuai MySQL Anda. Jangan di-commit.
+db.url=jdbc:mysql://localhost:3306/db_puskesmas
+db.user=root
+db.password=
